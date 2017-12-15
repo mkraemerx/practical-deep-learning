@@ -19,8 +19,12 @@ This collection is maintained by Michael Krämer ([@mkraemerx](https://twitter.c
   * [Matrix Multiplication](https://www.khanacademy.org/math/precalculus/precalc-matrices/multiplying-matrices-by-matrices/v/matrix-multiplication-intro)
   * [Matrix Inverse](https://www.khanacademy.org/math/algebra-home/alg-matrices/alg-intro-to-matrix-inverses/v/inverse-matrix-part-1)
   * [Orthogonal Matrices](http://mathworld.wolfram.com/OrthogonalMatrix.html)
-* Functions:
-  * ?? Properties of functions: Continuous, monotone, differentiable, non-negative, ..?
+* Properties of Functions:
+  * Continuous
+  * [Monotonic Function](http://mathworld.wolfram.com/MonotonicFunction.html)
+  * [Differentiable](https://en.wikipedia.org/wiki/Differentiable_function)
+  * Non-negative
+  * ...
 * [Universal Approximator Theorem](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.145.6041&rep=rep1&type=pdf) (1993)
 * [No Free Lunch Theorems](http://www.no-free-lunch.org/) by David Wolpert, William Macready
 
