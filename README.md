@@ -39,7 +39,6 @@ This collection is maintained by Michael Krämer ([@mkraemerx](https://twitter.c
 ## <a name='problem-definition'> Problem & Type Definition
 * [Encoding categorical features](http://scikit-learn.org/stable/modules/preprocessing.html#preprocessing-categorical-features): Also know as One-hot-vectors or One-hot-encoding, this type of encoding performs way better than usage of ordinal types (numbers) to represent categories.
 * Lower bound of needed observations for sparse, high-dimensional feature spaces is k for 2^k regions: [Non-Local Manifold Parzen Windows](http://www.cs.toronto.edu/~larocheh/publications/nlmp-nips-05.pdf) by Bengio Y., Larochelle H and Vincent P (in NIPS‘2005, MIT Press)
-
 * [Curse of dimensionality](http://www.visiondummy.com/2014/04/curse-dimensionality-affect-classification/)
 
 ## <a name='architecture'> Model Architecture
